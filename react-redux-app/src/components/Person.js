@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import Loader from 'react-loader-spinner';
 
 import { getPerson } from '../actions/index';
-import Button from '@material-ui/core/button'
+import {Button} from '@material-ui/core/'
 
 import PersonCreator from './PersonCreator'
 const Person = props => {
