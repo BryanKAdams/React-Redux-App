@@ -6,7 +6,7 @@ import Person from './components/Person';
 function App() {
   return (
     <div className="App">
-      <h1>Honestly Dating Apps ROCK So We Just Give You A Random Lover</h1>
+      <h1>EGG Dating Apps ROCK So We Just Give You A Random Lover</h1>
     
         <Person/>
     </div>
